@@ -7,6 +7,7 @@ Descrição ✏️
 -----------
 
 Este projeto cria uma animação de matrix que simula a famosa cena de abertura do filme Matrix. A animação é composta por linhas de texto que caem pela tela, criando um efeito de "chuva de código".
+É possível ver uma prévia do projeto no arquivo `Exemplo matrix.mp4`
 
 Tecnologias utilizadas 🖥️
 -----------------------
